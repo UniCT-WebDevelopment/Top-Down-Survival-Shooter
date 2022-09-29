@@ -1,0 +1,203 @@
+{
+    "frames": [
+        {
+            "filename": "survivor-reload_handgun_0",
+            "frame": {
+                "w": 260,
+                "h": 230,
+                "x": 1,
+                "y": 1
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "survivor-reload_handgun_1",
+            "frame": {
+                "w": 260,
+                "h": 230,
+                "x": 1,
+                "y": 232
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "survivor-reload_handgun_2",
+            "frame": {
+                "w": 260,
+                "h": 230,
+                "x": 262,
+                "y": 1
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "survivor-reload_handgun_3",
+            "frame": {
+                "w": 260,
+                "h": 230,
+                "x": 262,
+                "y": 232
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "survivor-reload_handgun_4",
+            "frame": {
+                "w": 260,
+                "h": 230,
+                "x": 1,
+                "y": 463
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "survivor-reload_handgun_5",
+            "frame": {
+                "w": 260,
+                "h": 230,
+                "x": 262,
+                "y": 463
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "survivor-reload_handgun_6",
+            "frame": {
+                "w": 260,
+                "h": 230,
+                "x": 523,
+                "y": 1
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "survivor-reload_handgun_7",
+            "frame": {
+                "w": 260,
+                "h": 230,
+                "x": 523,
+                "y": 232
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "survivor-reload_handgun_8",
+            "frame": {
+                "w": 260,
+                "h": 230,
+                "x": 523,
+                "y": 463
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "survivor-reload_handgun_9",
+            "frame": {
+                "w": 260,
+                "h": 230,
+                "x": 1,
+                "y": 694
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "survivor-reload_handgun_10",
+            "frame": {
+                "w": 260,
+                "h": 230,
+                "x": 262,
+                "y": 694
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "survivor-reload_handgun_11",
+            "frame": {
+                "w": 260,
+                "h": 230,
+                "x": 523,
+                "y": 694
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "survivor-reload_handgun_12",
+            "frame": {
+                "w": 260,
+                "h": 230,
+                "x": 784,
+                "y": 1
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "survivor-reload_handgun_13",
+            "frame": {
+                "w": 260,
+                "h": 230,
+                "x": 784,
+                "y": 232
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "survivor-reload_handgun_14",
+            "frame": {
+                "w": 260,
+                "h": 230,
+                "x": 784,
+                "y": 463
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        }
+    ],
+    "meta": {
+        "description": "Atlas generado con Atlas Packer Gamma V2",
+        "web": "https://gammafp.github.io/atlas-packer-phaser/"
+    }
+}

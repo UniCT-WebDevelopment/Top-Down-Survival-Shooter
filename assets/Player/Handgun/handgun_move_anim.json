@@ -1,0 +1,92 @@
+{
+    "anims": [
+        {
+            "key": "handgun_move",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 24,
+            "frames": [
+                {
+                    "key": "handgun_move",
+                    "frame": "survivor-move_handgun_0"
+                },
+                {
+                    "key": "handgun_move",
+                    "frame": "survivor-move_handgun_1"
+                },
+                {
+                    "key": "handgun_move",
+                    "frame": "survivor-move_handgun_2"
+                },
+                {
+                    "key": "handgun_move",
+                    "frame": "survivor-move_handgun_3"
+                },
+                {
+                    "key": "handgun_move",
+                    "frame": "survivor-move_handgun_4"
+                },
+                {
+                    "key": "handgun_move",
+                    "frame": "survivor-move_handgun_5"
+                },
+                {
+                    "key": "handgun_move",
+                    "frame": "survivor-move_handgun_6"
+                },
+                {
+                    "key": "handgun_move",
+                    "frame": "survivor-move_handgun_7"
+                },
+                {
+                    "key": "handgun_move",
+                    "frame": "survivor-move_handgun_8"
+                },
+                {
+                    "key": "handgun_move",
+                    "frame": "survivor-move_handgun_9"
+                },
+                {
+                    "key": "handgun_move",
+                    "frame": "survivor-move_handgun_10"
+                },
+                {
+                    "key": "handgun_move",
+                    "frame": "survivor-move_handgun_11"
+                },
+                {
+                    "key": "handgun_move",
+                    "frame": "survivor-move_handgun_12"
+                },
+                {
+                    "key": "handgun_move",
+                    "frame": "survivor-move_handgun_13"
+                },
+                {
+                    "key": "handgun_move",
+                    "frame": "survivor-move_handgun_14"
+                },
+                {
+                    "key": "handgun_move",
+                    "frame": "survivor-move_handgun_15"
+                },
+                {
+                    "key": "handgun_move",
+                    "frame": "survivor-move_handgun_16"
+                },
+                {
+                    "key": "handgun_move",
+                    "frame": "survivor-move_handgun_17"
+                },
+                {
+                    "key": "handgun_move",
+                    "frame": "survivor-move_handgun_18"
+                },
+                {
+                    "key": "handgun_move",
+                    "frame": "survivor-move_handgun_19"
+                }
+            ]
+        }
+    ]
+}

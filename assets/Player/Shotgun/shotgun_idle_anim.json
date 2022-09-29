@@ -1,0 +1,92 @@
+{
+    "anims": [
+        {
+            "key": "shotgun_idle",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "shotgun_idle",
+                    "frame": "survivor-idle_shotgun_0"
+                },
+                {
+                    "key": "shotgun_idle",
+                    "frame": "survivor-idle_shotgun_1"
+                },
+                {
+                    "key": "shotgun_idle",
+                    "frame": "survivor-idle_shotgun_2"
+                },
+                {
+                    "key": "shotgun_idle",
+                    "frame": "survivor-idle_shotgun_3"
+                },
+                {
+                    "key": "shotgun_idle",
+                    "frame": "survivor-idle_shotgun_4"
+                },
+                {
+                    "key": "shotgun_idle",
+                    "frame": "survivor-idle_shotgun_5"
+                },
+                {
+                    "key": "shotgun_idle",
+                    "frame": "survivor-idle_shotgun_6"
+                },
+                {
+                    "key": "shotgun_idle",
+                    "frame": "survivor-idle_shotgun_7"
+                },
+                {
+                    "key": "shotgun_idle",
+                    "frame": "survivor-idle_shotgun_8"
+                },
+                {
+                    "key": "shotgun_idle",
+                    "frame": "survivor-idle_shotgun_9"
+                },
+                {
+                    "key": "shotgun_idle",
+                    "frame": "survivor-idle_shotgun_10"
+                },
+                {
+                    "key": "shotgun_idle",
+                    "frame": "survivor-idle_shotgun_11"
+                },
+                {
+                    "key": "shotgun_idle",
+                    "frame": "survivor-idle_shotgun_12"
+                },
+                {
+                    "key": "shotgun_idle",
+                    "frame": "survivor-idle_shotgun_13"
+                },
+                {
+                    "key": "shotgun_idle",
+                    "frame": "survivor-idle_shotgun_14"
+                },
+                {
+                    "key": "shotgun_idle",
+                    "frame": "survivor-idle_shotgun_15"
+                },
+                {
+                    "key": "shotgun_idle",
+                    "frame": "survivor-idle_shotgun_16"
+                },
+                {
+                    "key": "shotgun_idle",
+                    "frame": "survivor-idle_shotgun_17"
+                },
+                {
+                    "key": "shotgun_idle",
+                    "frame": "survivor-idle_shotgun_18"
+                },
+                {
+                    "key": "shotgun_idle",
+                    "frame": "survivor-idle_shotgun_19"
+                }
+            ]
+        }
+    ]
+}

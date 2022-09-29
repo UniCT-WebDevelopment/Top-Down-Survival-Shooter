@@ -1,0 +1,48 @@
+{
+    "anims": [
+        {
+            "key": "enemy_attack",
+            "type": "frames",
+            "repeat": 0,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "enemy_attack",
+                    "frame": "skeleton-attack_0"
+                },
+                {
+                    "key": "enemy_attack",
+                    "frame": "skeleton-attack_1"
+                },
+                {
+                    "key": "enemy_attack",
+                    "frame": "skeleton-attack_2"
+                },
+                {
+                    "key": "enemy_attack",
+                    "frame": "skeleton-attack_3"
+                },
+                {
+                    "key": "enemy_attack",
+                    "frame": "skeleton-attack_4"
+                },
+                {
+                    "key": "enemy_attack",
+                    "frame": "skeleton-attack_5"
+                },
+                {
+                    "key": "enemy_attack",
+                    "frame": "skeleton-attack_6"
+                },
+                {
+                    "key": "enemy_attack",
+                    "frame": "skeleton-attack_7"
+                },
+                {
+                    "key": "enemy_attack",
+                    "frame": "skeleton-attack_8"
+                }
+            ]
+        }
+    ]
+}

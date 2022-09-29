@@ -1,0 +1,92 @@
+{
+    "anims": [
+        {
+            "key": "rifle_reload",
+            "type": "frames",
+            "repeat": 0,
+            "frameRate": 24,
+            "frames": [
+                {
+                    "key": "rifle_reload",
+                    "frame": "survivor-reload_rifle_0"
+                },
+                {
+                    "key": "rifle_reload",
+                    "frame": "survivor-reload_rifle_1"
+                },
+                {
+                    "key": "rifle_reload",
+                    "frame": "survivor-reload_rifle_2"
+                },
+                {
+                    "key": "rifle_reload",
+                    "frame": "survivor-reload_rifle_3"
+                },
+                {
+                    "key": "rifle_reload",
+                    "frame": "survivor-reload_rifle_4"
+                },
+                {
+                    "key": "rifle_reload",
+                    "frame": "survivor-reload_rifle_5"
+                },
+                {
+                    "key": "rifle_reload",
+                    "frame": "survivor-reload_rifle_6"
+                },
+                {
+                    "key": "rifle_reload",
+                    "frame": "survivor-reload_rifle_7"
+                },
+                {
+                    "key": "rifle_reload",
+                    "frame": "survivor-reload_rifle_8"
+                },
+                {
+                    "key": "rifle_reload",
+                    "frame": "survivor-reload_rifle_9"
+                },
+                {
+                    "key": "rifle_reload",
+                    "frame": "survivor-reload_rifle_10"
+                },
+                {
+                    "key": "rifle_reload",
+                    "frame": "survivor-reload_rifle_11"
+                },
+                {
+                    "key": "rifle_reload",
+                    "frame": "survivor-reload_rifle_12"
+                },
+                {
+                    "key": "rifle_reload",
+                    "frame": "survivor-reload_rifle_13"
+                },
+                {
+                    "key": "rifle_reload",
+                    "frame": "survivor-reload_rifle_14"
+                },
+                {
+                    "key": "rifle_reload",
+                    "frame": "survivor-reload_rifle_15"
+                },
+                {
+                    "key": "rifle_reload",
+                    "frame": "survivor-reload_rifle_16"
+                },
+                {
+                    "key": "rifle_reload",
+                    "frame": "survivor-reload_rifle_17"
+                },
+                {
+                    "key": "rifle_reload",
+                    "frame": "survivor-reload_rifle_18"
+                },
+                {
+                    "key": "rifle_reload",
+                    "frame": "survivor-reload_rifle_19"
+                }
+            ]
+        }
+    ]
+}

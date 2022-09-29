@@ -1,0 +1,24 @@
+{
+    "anims": [
+        {
+            "key": "turret_fire",
+            "type": "frames",
+            "repeat": 0,
+            "frameRate": 6,
+            "frames": [
+                {
+                    "key": "turret_fire",
+                    "frame": "machinegun_still"
+                },
+                {
+                    "key": "turret_fire",
+                    "frame": "machinegun_fire_0001"
+                },
+                {
+                    "key": "turret_fire",
+                    "frame": "machinegun_fire_0002"
+                }
+            ]
+        }
+    ]
+}

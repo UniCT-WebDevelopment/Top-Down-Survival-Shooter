@@ -1,0 +1,80 @@
+{
+    "anims": [
+        {
+            "key": "enemy_move",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "enemy_move",
+                    "frame": "skeleton-move_0"
+                },
+                {
+                    "key": "enemy_move",
+                    "frame": "skeleton-move_1"
+                },
+                {
+                    "key": "enemy_move",
+                    "frame": "skeleton-move_2"
+                },
+                {
+                    "key": "enemy_move",
+                    "frame": "skeleton-move_3"
+                },
+                {
+                    "key": "enemy_move",
+                    "frame": "skeleton-move_4"
+                },
+                {
+                    "key": "enemy_move",
+                    "frame": "skeleton-move_5"
+                },
+                {
+                    "key": "enemy_move",
+                    "frame": "skeleton-move_6"
+                },
+                {
+                    "key": "enemy_move",
+                    "frame": "skeleton-move_7"
+                },
+                {
+                    "key": "enemy_move",
+                    "frame": "skeleton-move_8"
+                },
+                {
+                    "key": "enemy_move",
+                    "frame": "skeleton-move_9"
+                },
+                {
+                    "key": "enemy_move",
+                    "frame": "skeleton-move_10"
+                },
+                {
+                    "key": "enemy_move",
+                    "frame": "skeleton-move_11"
+                },
+                {
+                    "key": "enemy_move",
+                    "frame": "skeleton-move_12"
+                },
+                {
+                    "key": "enemy_move",
+                    "frame": "skeleton-move_13"
+                },
+                {
+                    "key": "enemy_move",
+                    "frame": "skeleton-move_14"
+                },
+                {
+                    "key": "enemy_move",
+                    "frame": "skeleton-move_15"
+                },
+                {
+                    "key": "enemy_move",
+                    "frame": "skeleton-move_16"
+                }
+            ]
+        }
+    ]
+}

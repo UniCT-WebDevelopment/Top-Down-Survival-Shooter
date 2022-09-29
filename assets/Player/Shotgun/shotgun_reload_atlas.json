@@ -1,0 +1,268 @@
+{
+    "frames": [
+        {
+            "filename": "survivor-reload_shotgun_3",
+            "frame": {
+                "w": 322,
+                "h": 217,
+                "x": 1,
+                "y": 1
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "survivor-reload_shotgun_0",
+            "frame": {
+                "w": 322,
+                "h": 217,
+                "x": 1,
+                "y": 219
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "survivor-reload_shotgun_1",
+            "frame": {
+                "w": 322,
+                "h": 217,
+                "x": 324,
+                "y": 1
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "survivor-reload_shotgun_2",
+            "frame": {
+                "w": 322,
+                "h": 217,
+                "x": 324,
+                "y": 219
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "survivor-reload_shotgun_4",
+            "frame": {
+                "w": 322,
+                "h": 217,
+                "x": 1,
+                "y": 437
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "survivor-reload_shotgun_7",
+            "frame": {
+                "w": 322,
+                "h": 217,
+                "x": 324,
+                "y": 437
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "survivor-reload_shotgun_5",
+            "frame": {
+                "w": 322,
+                "h": 217,
+                "x": 647,
+                "y": 1
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "survivor-reload_shotgun_6",
+            "frame": {
+                "w": 322,
+                "h": 217,
+                "x": 647,
+                "y": 219
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "survivor-reload_shotgun_8",
+            "frame": {
+                "w": 322,
+                "h": 217,
+                "x": 647,
+                "y": 437
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "survivor-reload_shotgun_9",
+            "frame": {
+                "w": 322,
+                "h": 217,
+                "x": 1,
+                "y": 655
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "survivor-reload_shotgun_10",
+            "frame": {
+                "w": 322,
+                "h": 217,
+                "x": 324,
+                "y": 655
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "survivor-reload_shotgun_12",
+            "frame": {
+                "w": 322,
+                "h": 217,
+                "x": 647,
+                "y": 655
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "survivor-reload_shotgun_11",
+            "frame": {
+                "w": 322,
+                "h": 217,
+                "x": 1,
+                "y": 873
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "survivor-reload_shotgun_13",
+            "frame": {
+                "w": 322,
+                "h": 217,
+                "x": 324,
+                "y": 873
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "survivor-reload_shotgun_16",
+            "frame": {
+                "w": 322,
+                "h": 217,
+                "x": 647,
+                "y": 873
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "survivor-reload_shotgun_15",
+            "frame": {
+                "w": 322,
+                "h": 217,
+                "x": 970,
+                "y": 1
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "survivor-reload_shotgun_14",
+            "frame": {
+                "w": 322,
+                "h": 217,
+                "x": 970,
+                "y": 219
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "survivor-reload_shotgun_17",
+            "frame": {
+                "w": 322,
+                "h": 217,
+                "x": 970,
+                "y": 437
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "survivor-reload_shotgun_19",
+            "frame": {
+                "w": 322,
+                "h": 217,
+                "x": 970,
+                "y": 655
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "survivor-reload_shotgun_18",
+            "frame": {
+                "w": 322,
+                "h": 217,
+                "x": 970,
+                "y": 873
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        }
+    ],
+    "meta": {
+        "description": "Atlas generado con Atlas Packer Gamma V2",
+        "web": "https://gammafp.github.io/atlas-packer-phaser/"
+    }
+}

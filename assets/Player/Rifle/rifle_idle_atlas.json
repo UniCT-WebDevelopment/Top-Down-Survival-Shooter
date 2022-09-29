@@ -1,0 +1,268 @@
+{
+    "frames": [
+        {
+            "filename": "survivor-idle_rifle_0",
+            "frame": {
+                "w": 313,
+                "h": 207,
+                "x": 1,
+                "y": 1
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "survivor-idle_rifle_3",
+            "frame": {
+                "w": 313,
+                "h": 207,
+                "x": 1,
+                "y": 209
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "survivor-idle_rifle_2",
+            "frame": {
+                "w": 313,
+                "h": 207,
+                "x": 315,
+                "y": 1
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "survivor-idle_rifle_1",
+            "frame": {
+                "w": 313,
+                "h": 207,
+                "x": 315,
+                "y": 209
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "survivor-idle_rifle_5",
+            "frame": {
+                "w": 313,
+                "h": 207,
+                "x": 1,
+                "y": 417
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "survivor-idle_rifle_4",
+            "frame": {
+                "w": 313,
+                "h": 207,
+                "x": 315,
+                "y": 417
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "survivor-idle_rifle_6",
+            "frame": {
+                "w": 313,
+                "h": 207,
+                "x": 1,
+                "y": 625
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "survivor-idle_rifle_7",
+            "frame": {
+                "w": 313,
+                "h": 207,
+                "x": 315,
+                "y": 625
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "survivor-idle_rifle_11",
+            "frame": {
+                "w": 313,
+                "h": 207,
+                "x": 629,
+                "y": 1
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "survivor-idle_rifle_8",
+            "frame": {
+                "w": 313,
+                "h": 207,
+                "x": 629,
+                "y": 209
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "survivor-idle_rifle_10",
+            "frame": {
+                "w": 313,
+                "h": 207,
+                "x": 629,
+                "y": 417
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "survivor-idle_rifle_9",
+            "frame": {
+                "w": 313,
+                "h": 207,
+                "x": 629,
+                "y": 625
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "survivor-idle_rifle_15",
+            "frame": {
+                "w": 313,
+                "h": 207,
+                "x": 1,
+                "y": 833
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "survivor-idle_rifle_14",
+            "frame": {
+                "w": 313,
+                "h": 207,
+                "x": 315,
+                "y": 833
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "survivor-idle_rifle_12",
+            "frame": {
+                "w": 313,
+                "h": 207,
+                "x": 629,
+                "y": 833
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "survivor-idle_rifle_13",
+            "frame": {
+                "w": 313,
+                "h": 207,
+                "x": 943,
+                "y": 1
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "survivor-idle_rifle_17",
+            "frame": {
+                "w": 313,
+                "h": 207,
+                "x": 943,
+                "y": 209
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "survivor-idle_rifle_16",
+            "frame": {
+                "w": 313,
+                "h": 207,
+                "x": 943,
+                "y": 417
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "survivor-idle_rifle_18",
+            "frame": {
+                "w": 313,
+                "h": 207,
+                "x": 943,
+                "y": 625
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "survivor-idle_rifle_19",
+            "frame": {
+                "w": 313,
+                "h": 207,
+                "x": 943,
+                "y": 833
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        }
+    ],
+    "meta": {
+        "description": "Atlas generado con Atlas Packer Gamma V2",
+        "web": "https://gammafp.github.io/atlas-packer-phaser/"
+    }
+}

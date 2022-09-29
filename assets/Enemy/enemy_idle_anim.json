@@ -1,0 +1,80 @@
+{
+    "anims": [
+        {
+            "key": "enemy_idle",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "enemy_idle",
+                    "frame": "skeleton-idle_0"
+                },
+                {
+                    "key": "enemy_idle",
+                    "frame": "skeleton-idle_1"
+                },
+                {
+                    "key": "enemy_idle",
+                    "frame": "skeleton-idle_2"
+                },
+                {
+                    "key": "enemy_idle",
+                    "frame": "skeleton-idle_3"
+                },
+                {
+                    "key": "enemy_idle",
+                    "frame": "skeleton-idle_4"
+                },
+                {
+                    "key": "enemy_idle",
+                    "frame": "skeleton-idle_5"
+                },
+                {
+                    "key": "enemy_idle",
+                    "frame": "skeleton-idle_6"
+                },
+                {
+                    "key": "enemy_idle",
+                    "frame": "skeleton-idle_7"
+                },
+                {
+                    "key": "enemy_idle",
+                    "frame": "skeleton-idle_8"
+                },
+                {
+                    "key": "enemy_idle",
+                    "frame": "skeleton-idle_9"
+                },
+                {
+                    "key": "enemy_idle",
+                    "frame": "skeleton-idle_10"
+                },
+                {
+                    "key": "enemy_idle",
+                    "frame": "skeleton-idle_11"
+                },
+                {
+                    "key": "enemy_idle",
+                    "frame": "skeleton-idle_12"
+                },
+                {
+                    "key": "enemy_idle",
+                    "frame": "skeleton-idle_13"
+                },
+                {
+                    "key": "enemy_idle",
+                    "frame": "skeleton-idle_14"
+                },
+                {
+                    "key": "enemy_idle",
+                    "frame": "skeleton-idle_15"
+                },
+                {
+                    "key": "enemy_idle",
+                    "frame": "skeleton-idle_16"
+                }
+            ]
+        }
+    ]
+}

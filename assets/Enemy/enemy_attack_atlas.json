@@ -1,0 +1,125 @@
+{
+    "frames": [
+        {
+            "filename": "skeleton-attack_0",
+            "frame": {
+                "w": 318,
+                "h": 294,
+                "x": 1,
+                "y": 1
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "skeleton-attack_3",
+            "frame": {
+                "w": 318,
+                "h": 294,
+                "x": 1,
+                "y": 296
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "skeleton-attack_2",
+            "frame": {
+                "w": 318,
+                "h": 294,
+                "x": 320,
+                "y": 1
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "skeleton-attack_1",
+            "frame": {
+                "w": 318,
+                "h": 294,
+                "x": 320,
+                "y": 296
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "skeleton-attack_4",
+            "frame": {
+                "w": 318,
+                "h": 294,
+                "x": 1,
+                "y": 591
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "skeleton-attack_5",
+            "frame": {
+                "w": 318,
+                "h": 294,
+                "x": 320,
+                "y": 591
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "skeleton-attack_6",
+            "frame": {
+                "w": 318,
+                "h": 294,
+                "x": 639,
+                "y": 1
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "skeleton-attack_7",
+            "frame": {
+                "w": 318,
+                "h": 294,
+                "x": 639,
+                "y": 296
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "skeleton-attack_8",
+            "frame": {
+                "w": 318,
+                "h": 294,
+                "x": 639,
+                "y": 591
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        }
+    ],
+    "meta": {
+        "description": "Atlas generado con Atlas Packer Gamma V2",
+        "web": "https://gammafp.github.io/atlas-packer-phaser/"
+    }
+}

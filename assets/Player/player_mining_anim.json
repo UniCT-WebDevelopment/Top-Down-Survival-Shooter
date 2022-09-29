@@ -1,0 +1,72 @@
+{
+    "anims": [
+        {
+            "key": "player_mining",
+            "type": "frames",
+            "repeat": 2,
+            "frameRate": 18,
+            "frames": [
+                {
+                    "key": "player_mining",
+                    "frame": "survivor-meleeattack_knife_0"
+                },
+                {
+                    "key": "player_mining",
+                    "frame": "survivor-meleeattack_knife_1"
+                },
+                {
+                    "key": "player_mining",
+                    "frame": "survivor-meleeattack_knife_2"
+                },
+                {
+                    "key": "player_mining",
+                    "frame": "survivor-meleeattack_knife_3"
+                },
+                {
+                    "key": "player_mining",
+                    "frame": "survivor-meleeattack_knife_4"
+                },
+                {
+                    "key": "player_mining",
+                    "frame": "survivor-meleeattack_knife_5"
+                },
+                {
+                    "key": "player_mining",
+                    "frame": "survivor-meleeattack_knife_6"
+                },
+                {
+                    "key": "player_mining",
+                    "frame": "survivor-meleeattack_knife_7"
+                },
+                {
+                    "key": "player_mining",
+                    "frame": "survivor-meleeattack_knife_8"
+                },
+                {
+                    "key": "player_mining",
+                    "frame": "survivor-meleeattack_knife_9"
+                },
+                {
+                    "key": "player_mining",
+                    "frame": "survivor-meleeattack_knife_10"
+                },
+                {
+                    "key": "player_mining",
+                    "frame": "survivor-meleeattack_knife_11"
+                },
+                {
+                    "key": "player_mining",
+                    "frame": "survivor-meleeattack_knife_12"
+                },
+                {
+                    "key": "player_mining",
+                    "frame": "survivor-meleeattack_knife_13"
+                },
+                {
+                    "key": "player_mining",
+                    "frame": "survivor-meleeattack_knife_14"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,203 @@
+{
+    "frames": [
+        {
+            "filename": "survivor-meleeattack_knife_0",
+            "frame": {
+                "w": 329,
+                "h": 300,
+                "x": 0,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "survivor-meleeattack_knife_6",
+            "frame": {
+                "w": 329,
+                "h": 300,
+                "x": 0,
+                "y": 300
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "survivor-meleeattack_knife_1",
+            "frame": {
+                "w": 329,
+                "h": 300,
+                "x": 329,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "survivor-meleeattack_knife_2",
+            "frame": {
+                "w": 329,
+                "h": 300,
+                "x": 329,
+                "y": 300
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "survivor-meleeattack_knife_3",
+            "frame": {
+                "w": 329,
+                "h": 300,
+                "x": 0,
+                "y": 600
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "survivor-meleeattack_knife_4",
+            "frame": {
+                "w": 329,
+                "h": 300,
+                "x": 329,
+                "y": 600
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "survivor-meleeattack_knife_5",
+            "frame": {
+                "w": 329,
+                "h": 300,
+                "x": 658,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "survivor-meleeattack_knife_14",
+            "frame": {
+                "w": 329,
+                "h": 300,
+                "x": 658,
+                "y": 300
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "survivor-meleeattack_knife_7",
+            "frame": {
+                "w": 329,
+                "h": 300,
+                "x": 658,
+                "y": 600
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "survivor-meleeattack_knife_8",
+            "frame": {
+                "w": 329,
+                "h": 300,
+                "x": 0,
+                "y": 900
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "survivor-meleeattack_knife_9",
+            "frame": {
+                "w": 329,
+                "h": 300,
+                "x": 329,
+                "y": 900
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "survivor-meleeattack_knife_10",
+            "frame": {
+                "w": 329,
+                "h": 300,
+                "x": 658,
+                "y": 900
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "survivor-meleeattack_knife_11",
+            "frame": {
+                "w": 329,
+                "h": 300,
+                "x": 987,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "survivor-meleeattack_knife_12",
+            "frame": {
+                "w": 329,
+                "h": 300,
+                "x": 987,
+                "y": 300
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "survivor-meleeattack_knife_13",
+            "frame": {
+                "w": 329,
+                "h": 300,
+                "x": 987,
+                "y": 600
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        }
+    ],
+    "meta": {
+        "description": "Atlas generado con Atlas Packer Gamma V2",
+        "web": "https://gammafp.github.io/atlas-packer-phaser/"
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "anims": [
+        {
+            "key": "rifle_idle",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "rifle_idle",
+                    "frame": "survivor-idle_rifle_0"
+                },
+                {
+                    "key": "rifle_idle",
+                    "frame": "survivor-idle_rifle_1"
+                },
+                {
+                    "key": "rifle_idle",
+                    "frame": "survivor-idle_rifle_2"
+                },
+                {
+                    "key": "rifle_idle",
+                    "frame": "survivor-idle_rifle_3"
+                },
+                {
+                    "key": "rifle_idle",
+                    "frame": "survivor-idle_rifle_4"
+                },
+                {
+                    "key": "rifle_idle",
+                    "frame": "survivor-idle_rifle_5"
+                },
+                {
+                    "key": "rifle_idle",
+                    "frame": "survivor-idle_rifle_6"
+                },
+                {
+                    "key": "rifle_idle",
+                    "frame": "survivor-idle_rifle_7"
+                },
+                {
+                    "key": "rifle_idle",
+                    "frame": "survivor-idle_rifle_8"
+                },
+                {
+                    "key": "rifle_idle",
+                    "frame": "survivor-idle_rifle_9"
+                },
+                {
+                    "key": "rifle_idle",
+                    "frame": "survivor-idle_rifle_10"
+                },
+                {
+                    "key": "rifle_idle",
+                    "frame": "survivor-idle_rifle_11"
+                },
+                {
+                    "key": "rifle_idle",
+                    "frame": "survivor-idle_rifle_12"
+                },
+                {
+                    "key": "rifle_idle",
+                    "frame": "survivor-idle_rifle_13"
+                },
+                {
+                    "key": "rifle_idle",
+                    "frame": "survivor-idle_rifle_14"
+                },
+                {
+                    "key": "rifle_idle",
+                    "frame": "survivor-idle_rifle_15"
+                },
+                {
+                    "key": "rifle_idle",
+                    "frame": "survivor-idle_rifle_16"
+                },
+                {
+                    "key": "rifle_idle",
+                    "frame": "survivor-idle_rifle_17"
+                },
+                {
+                    "key": "rifle_idle",
+                    "frame": "survivor-idle_rifle_18"
+                },
+                {
+                    "key": "rifle_idle",
+                    "frame": "survivor-idle_rifle_19"
+                }
+            ]
+        }
+    ]
+}

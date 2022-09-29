@@ -1,0 +1,16 @@
+{
+    "anims": [
+        {
+            "key": "turret_idle",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "turret_idle",
+                    "frame": "machinegun_still"
+                }
+            ]
+        }
+    ]
+}

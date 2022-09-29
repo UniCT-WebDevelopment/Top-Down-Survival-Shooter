@@ -1,0 +1,24 @@
+{
+    "anims": [
+        {
+            "key": "rifle_shoot",
+            "type": "frames",
+            "repeat": 0,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "rifle_shoot",
+                    "frame": "survivor-shoot_rifle_0"
+                },
+                {
+                    "key": "rifle_shoot",
+                    "frame": "survivor-shoot_rifle_1"
+                },
+                {
+                    "key": "rifle_shoot",
+                    "frame": "survivor-shoot_rifle_2"
+                }
+            ]
+        }
+    ]
+}

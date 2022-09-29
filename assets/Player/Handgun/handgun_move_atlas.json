@@ -1,0 +1,268 @@
+{
+    "frames": [
+        {
+            "filename": "survivor-move_handgun_0",
+            "frame": {
+                "w": 258,
+                "h": 220,
+                "x": 1,
+                "y": 1
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "survivor-move_handgun_1",
+            "frame": {
+                "w": 258,
+                "h": 220,
+                "x": 1,
+                "y": 222
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "survivor-move_handgun_2",
+            "frame": {
+                "w": 258,
+                "h": 220,
+                "x": 260,
+                "y": 1
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "survivor-move_handgun_3",
+            "frame": {
+                "w": 258,
+                "h": 220,
+                "x": 260,
+                "y": 222
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "survivor-move_handgun_4",
+            "frame": {
+                "w": 258,
+                "h": 220,
+                "x": 1,
+                "y": 443
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "survivor-move_handgun_5",
+            "frame": {
+                "w": 258,
+                "h": 220,
+                "x": 260,
+                "y": 443
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "survivor-move_handgun_6",
+            "frame": {
+                "w": 258,
+                "h": 220,
+                "x": 519,
+                "y": 1
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "survivor-move_handgun_7",
+            "frame": {
+                "w": 258,
+                "h": 220,
+                "x": 519,
+                "y": 222
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "survivor-move_handgun_8",
+            "frame": {
+                "w": 258,
+                "h": 220,
+                "x": 519,
+                "y": 443
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "survivor-move_handgun_9",
+            "frame": {
+                "w": 258,
+                "h": 220,
+                "x": 1,
+                "y": 664
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "survivor-move_handgun_10",
+            "frame": {
+                "w": 258,
+                "h": 220,
+                "x": 260,
+                "y": 664
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "survivor-move_handgun_11",
+            "frame": {
+                "w": 258,
+                "h": 220,
+                "x": 519,
+                "y": 664
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "survivor-move_handgun_12",
+            "frame": {
+                "w": 258,
+                "h": 220,
+                "x": 778,
+                "y": 1
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "survivor-move_handgun_13",
+            "frame": {
+                "w": 258,
+                "h": 220,
+                "x": 778,
+                "y": 222
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "survivor-move_handgun_14",
+            "frame": {
+                "w": 258,
+                "h": 220,
+                "x": 778,
+                "y": 443
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "survivor-move_handgun_15",
+            "frame": {
+                "w": 258,
+                "h": 220,
+                "x": 778,
+                "y": 664
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "survivor-move_handgun_16",
+            "frame": {
+                "w": 258,
+                "h": 220,
+                "x": 1,
+                "y": 885
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "survivor-move_handgun_17",
+            "frame": {
+                "w": 258,
+                "h": 220,
+                "x": 260,
+                "y": 885
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "survivor-move_handgun_18",
+            "frame": {
+                "w": 258,
+                "h": 220,
+                "x": 519,
+                "y": 885
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "survivor-move_handgun_19",
+            "frame": {
+                "w": 258,
+                "h": 220,
+                "x": 778,
+                "y": 885
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        }
+    ],
+    "meta": {
+        "description": "Atlas generado con Atlas Packer Gamma V2",
+        "web": "https://gammafp.github.io/atlas-packer-phaser/"
+    }
+}
